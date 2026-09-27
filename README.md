@@ -1,4 +1,4 @@
-# TechnoEdge 
+# TechnoEdge Sales Analysis: PowerBI Dashboard
 # 📊 Dashboard Overview
 # 1. Sales Analysis Dashboard
 <img width="996" height="560" alt="image" src="https://github.com/user-attachments/assets/8029a4da-6cb4-4b9d-a502-9d8b252ed8a7" />
